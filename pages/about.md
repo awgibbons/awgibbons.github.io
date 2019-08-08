@@ -10,7 +10,7 @@ Below is the text Austin is adding.
 **Bold text looks like this**.
 
 1. The Lunchbox
-2. [The Junior](www.google.com "Junior")
+2. [The Junior](http://www.google.com "Junior")
 3. The Club
 
 ## some heading text
