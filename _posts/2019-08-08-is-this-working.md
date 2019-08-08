@@ -6,6 +6,6 @@ categories:
 tags:
 - " sample"
 title: Is this Working?
-image: "/uploads/_MG_4757 copy.jpg"
+image: "/assets/img/_MG_4739.jpg"
 
 ---
