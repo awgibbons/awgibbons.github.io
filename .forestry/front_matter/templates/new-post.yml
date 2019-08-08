@@ -14,3 +14,5 @@ fields:
     maxSize: 250
   label: Image
   description: Artist Image
+pages:
+- _posts/this-is-a-test.md
