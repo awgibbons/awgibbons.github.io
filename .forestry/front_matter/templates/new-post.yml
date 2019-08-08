@@ -42,4 +42,5 @@ fields:
   label: Image
   description: Artist Image
 pages:
+- _posts/is-this-working.md
 - _posts/2019-08-08-this-is-a-test.md
