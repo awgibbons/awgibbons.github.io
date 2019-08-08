@@ -2,12 +2,38 @@
 label: New Post
 hide_body: false
 fields:
-- type: text
-  name: layout
+- name: layout
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
   label: layout
 - type: text
   name: title
   label: title
+- name: author
+  type: text
+  config:
+    required: false
+  label: author
+  default: Austin
+- name: categories
+  type: tag_list
+  default: []
+  label: categories
+- name: tags
+  type: tag_list
+  default:
+  - documentation
+  - " sample"
+  - " funk"
+  label: tags
 - name: image
   type: file
   config:
