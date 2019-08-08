@@ -1,6 +1,11 @@
 ---
-layout: Here we go
+layout: post
 title: This is a test
-image: "/uploads/_MG_4764 copy.jpg"
+image: "/assets/img/_MG_4767.jpg"
+author: Aust
+categories:
+- facts
+tags:
+- sample
 
 ---
