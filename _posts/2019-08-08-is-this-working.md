@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Austin
-categories: []
+categories: [documentation]
 tags:
 - documentation
 - " sample"
