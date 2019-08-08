@@ -1,11 +1,8 @@
 ---
 layout: post
-author: Austin
-categories:
-- sample
-tags:
-- [sample]
-title: Is this Working?
+title: "Is this working"
+author: "Austin"
+categories: documentation
+tags: [documentation,sample]
 image: _MG_4754.jpg
-
 ---
