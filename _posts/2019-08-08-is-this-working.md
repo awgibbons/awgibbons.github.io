@@ -4,8 +4,8 @@ author: Austin
 categories:
 - sample
 tags:
-- " sample"
+- [sample]
 title: Is this Working?
-image: "_MG_4754.jpg"
+image: _MG_4754.jpg
 
 ---
